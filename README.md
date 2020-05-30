@@ -18,7 +18,12 @@ Frameworks:
 
 - Axios;
 - Expo;
-- npm.
+- npm;
+- react-navigation.
+
+**APIs**
+
+- TMDB (https://developers.themoviedb.org/3)
 
 **Autores**
 
