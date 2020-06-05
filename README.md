@@ -32,8 +32,9 @@ Frameworks:
 - react-navigation.
 
 **Arquitetura**
+Arquitetura - DevFlix
 
-![arquitetura](Doc/DevFlix-Arquitetura.png)
+![arquitetura](Doc/Arquitetura-DevFlix.png)
 
 👷**Comandos**
 
