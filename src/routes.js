@@ -6,7 +6,7 @@ const AppTab = createBottomTabNavigator();
 
 import Cursos from "./pages/Cursos";
 import Disciplinas from "./pages/Disciplinas";
-import Logica from "./pages/Desenvolvimento/logica";
+import Logica from "./pages/Logica/logica";
 import Desenvolvimento1 from "./pages/Desenvolvimento/desenvolvimento1";
 
 export default function Routes() {
